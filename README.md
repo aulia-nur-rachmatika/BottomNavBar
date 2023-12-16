@@ -1,16 +1,6 @@
-# untitled3
+##Tugas Praktikum Mobile Mengenai Bottom Navigation Bar Dengan Flutter
+Bottom Navigation Bar adalah widget Material yang ditampilkan di bagian bawah aplikasi untuk memilih menu berupa button.
+ottom navigation bar terdiri dari beberapa item dalam bentuk label teks, ikon, atau keduanya, ditata di atas material. Ini memberikan navigasi cepat antara tampilan tingkat atas aplikasi.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut merupakn hasil output dari projek mengenai Bottom NavBar
+![gambar](https://github.com/aulia-nur-rachmatika/BottomNavBar/assets/114218228/da0eb32d-4647-44fe-bf78-d8302909efd4)
